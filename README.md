@@ -47,6 +47,7 @@ Your contributions are always welcome!
 - [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 - [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app.
 - [AI-Mask](https://github.com/pacoccino/ai-mask) - Browser extension to provide model inference to web apps. Backed by web-llm and transformers.js
+- [LmScript](https://github.com/lucasavila00/LmScript/) - UI for SGLang and Outlines
 
 ## Platforms / full solutions
 
