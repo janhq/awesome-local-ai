@@ -49,6 +49,7 @@ Your contributions are always welcome!
 - [AI-Mask](https://github.com/pacoccino/ai-mask) - Browser extension to provide model inference to web apps. Backed by web-llm and transformers.js
 - [everything-rag](https://github.com/AstraBert/everything-rag) - Interact with (virtually) any LLM on Hugging Face Hub with an asy-to-use, 100% local Gradio chatbot.
 - [LmScript](https://github.com/lucasavila00/LmScript/) - UI for SGLang and Outlines
+- [QA-Pilot](https://github.com/reid41/QA-Pilot) - An interactive chat app that leverages Ollama(or openAI) models for rapid understanding and navigation of GitHub code repository or compressed file resources
 
 ## Platforms / full solutions
 
@@ -76,6 +77,7 @@ Your contributions are always welcome!
 - [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes.
 - [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format.
+- [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
