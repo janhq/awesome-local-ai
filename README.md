@@ -151,3 +151,5 @@ Your contributions are always welcome!
 - [GPT4](https://www.reddit.com/r/GPT4/)
 - [Artificial Intelligence](https://www.reddit.com/r/artificial/)
 - [CrewAI](https://discord.com/invite/X4JWnZnxPb)
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
