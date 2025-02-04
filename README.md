@@ -33,6 +33,8 @@ Your contributions are always welcome!
 
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
+- [big-AGI](https://github.com/enricoros/big-AGI) - web UI to chat with remote or offline models, featuring multi-model/side-by-side chats, text-to-image, voice, PDF import, prompt personas, drawing etc.
+- [Msty](https://msty.app/) - model chat UI: offline-first, privacy-focused, closed source. Web search, side-by-side/multi-model comparison, RAG, Obsidian Vault support,  Hugging Face/Ollama/Open Router support etc.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
 - [FireworksAI](https://app.fireworks.ai/) - Experience the world's fastest LLM inference platform deploy your own at no additional cost.
 - [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
