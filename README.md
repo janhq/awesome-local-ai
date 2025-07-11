@@ -31,6 +31,7 @@ Your contributions are always welcome!
 
 ## Inference UI
 
+- [GGUF Loader](https://github.com/GGUFloader/gguf-loader) — Lightweight, PySide6-based GUI for running GGUF models locally with plugin support.
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
