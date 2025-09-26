@@ -122,6 +122,7 @@ Your contributions are always welcome!
 - [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models.
 - [LLM-Leaderboard-streamlit](https://llm-leaderboard.streamlit.app/) - A joint community effort to create one central leaderboard for LLMs.
 - [lmsys.org](https://chat.lmsys.org/) - Benchmarking LLMs in the Wild with Elo Ratings.
+- [LLM Stats](https://llm-stats.com/) - Analyze and compare API models across benchmarks, pricing, and capabilities. Built on community data.
 
 ## Research
 
