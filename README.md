@@ -76,6 +76,7 @@ Your contributions are always welcome!
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
+- [VelesDB](https://github.com/cyberlife-coder/VelesDB) - Real-time memory for AI agents. 70µs retrieval, ≥95% recall, hybrid BM25+vector, LangChain/LlamaIndex integrations and more.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes.
 - [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
