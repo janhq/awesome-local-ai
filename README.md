@@ -151,3 +151,8 @@ Your contributions are always welcome!
 - [GPT4](https://www.reddit.com/r/GPT4/)
 - [Artificial Intelligence](https://www.reddit.com/r/artificial/)
 - [CrewAI](https://discord.com/invite/X4JWnZnxPb)
+
+
+## Agent Memory
+
+- [Adam Framework](https://github.com/strangeadvancedmarketing/Adam) - 5-layer persistent memory and coherence architecture for local AI assistants (OpenClaw). Solves AI amnesia and within-session drift. Validated 353 sessions, 8 months production use. Model-agnostic, local-first, open source MIT.
