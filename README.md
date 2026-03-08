@@ -102,6 +102,11 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+## Agent Memory
+
+- [Adam Framework](https://github.com/strangeadvancedmarketing/Adam) - 5-layer persistent memory and coherence architecture for OpenClaw agents. Solves AI amnesia and within-session drift. Built over 353 sessions on a live business. No CS degree required. The memory lives in plain files — swap the model, keep the memory.
+
+
 
 ## Training
 
