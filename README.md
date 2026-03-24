@@ -84,7 +84,7 @@ Your contributions are always welcome!
 - [Langfuse](https://langfuse.com/) - Open-source LLM monitoring platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
 - [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
-- [n8n AI Workflow Templates](https://github.com/bonskari/n8n-ai-workflows) - 11 self-hosted AI workflow templates for n8n + Ollama - blog writer, email responder, social media, lead scoring, meeting notes, and more. All run locally, no API keys needed.
+- [n8n AI Workflow Templates](https://github.com/bonskari/n8n-ai-workflows) - 11 production-ready n8n automation workflows powered by Ollama. Self-hosted AI for email classification, lead scoring, content generation, document processing, and more. No API keys needed.
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
