@@ -43,6 +43,7 @@ Your contributions are always welcome!
 - [FuLLMetalAi](https://www.fullmetal.ai/) - Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs).
 - [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - All-in-one local AI app for uncensored chat (Ollama), image generation (ComfyUI), and video generation in a single modern UI.
 - [Wordflow](https://github.com/poloclub/wordflow) - Run, share, and discover AI prompts in your browsers
 - [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 - [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app.
