@@ -82,6 +82,7 @@ Your contributions are always welcome!
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format.
 - [Tune Studio](https://studio.tune.app/playground) - Playground for software developers to finetune and deploy large language models.
 - [Langfuse](https://langfuse.com/) - Open-source LLM monitoring platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
+- [LLM Benchmark](https://github.com/chuangyiyongxian/llm-benchmark) - Self-hosted LLM performance testing and monitoring platform. Benchmark latency, TTFT, throughput across OpenAI, Anthropic, Gemini and any OpenAI-compatible endpoint. One-command Docker deploy. [#opensource](https://github.com/chuangyiyongxian/llm-benchmark)
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
 - [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
 
