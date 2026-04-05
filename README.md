@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [gTabs](https://github.com/vaddisrinivas/gtabs) - AI Tab Organizer Chrome extension that uses local AI (Ollama, Chrome Built-in AI) to organize browser tabs into smart groups. Features editable suggestions, one-click undo, scheduled re-org, pinned groups, and duplicate finder. [Chrome Web Store](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)
 
 ## Agents
 
