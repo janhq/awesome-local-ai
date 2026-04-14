@@ -86,6 +86,7 @@ Your contributions are always welcome!
 - [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
 
 ## User Tools
+- [Formatho Tools](https://formatho.com/Tools) - 100+ privacy-first developer utilities. All client-side processing, no data leaves your browser. Perfect companion for local AI workflows.
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
 
 ## Agents
