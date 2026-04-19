@@ -53,6 +53,7 @@ Your contributions are always welcome!
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) - An interactive chat app that leverages Ollama(or openAI) models for rapid understanding and navigation of GitHub code repository or compressed file resources
 - [HammerAI](https://www.hammerai.com/desktop) - Simple character-chat interface to run LLMs on Windows, Mac, and Linux. Uses Ollama under the hood and is offline, free to chat, and requires zero configuration.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and much more affordable.
+- [Elvean](https://elvean.app) - Native AI workspace for macOS. Run local models via Ollama, LM Studio, and MLX with agentic tools, interactive charts, MCP servers, Apple Maps, Calendar, and WeatherKit integration.
 
 ## Platforms / full solutions
 
