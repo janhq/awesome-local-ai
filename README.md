@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - Encrypted local vault for local AI stacks. Integrates with Ollama, LM Studio, Jan, GPT4All, Open WebUI and more. Resolves {{PLACEHOLDER}} secrets at runtime so your local LLM never sees real credentials. AES-256-GCM + Argon2id.
 
 ## Agents
 
