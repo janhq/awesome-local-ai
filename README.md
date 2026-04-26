@@ -90,6 +90,7 @@ Your contributions are always welcome!
 
 ## Agents
 
+- [AgentBoot](https://github.com/Agnuxo1/AgentBoot-app) - Conversational AI sysadmin for bare-metal hardware detection and OS installation. PWA + Android APK + browser extension + Tauri desktop. Local Qwen3 0.8B via wllama (runs fully in-browser), BYOK cloud (OpenAI/Claude/Gemini). [Live](https://agentboot.pages.dev) · [HF Space](https://huggingface.co/spaces/Agnuxo/agentboot-demo) — Apache-2.0.
 - [SuperAGI](https://superagi.com/) - Opensource AGI Infrastructure.
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Baby AGI is an autonomous AI agent developed using Python that operates through OpenAI and Pinecone APIs.
