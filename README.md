@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Self-hosted multi-agent orchestrator for CLI coding agents. Apache 2.0, file-based state, runs entirely without SaaS. Native Ollama and Qwen adapters for fully-local coding workflows.
 
 ## Training
 
