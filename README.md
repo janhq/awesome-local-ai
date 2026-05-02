@@ -59,6 +59,7 @@ Your contributions are always welcome!
 - [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) - H2OGPT The fastest, most accurate AI Cloud Platform.
 - [BentoML](https://github.com/bentoml/BentoML) - BentoML is a framework for building reliable, scalable, and cost-efficient AI applications.
 - [Predibase](https://predibase.com/) - Serverless LoRA Fine-Tuning and Serving for LLMs.
+- [OpenEnsemble](https://github.com/openensemble/openensemble) - Self-hosted multi-user AI assistant platform with specialist agents, persistent memory, and a built-in scheduler. Works with Claude, OpenAI, Ollama, and LM Studio.
 
 ## Developer tools
 
