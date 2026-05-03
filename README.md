@@ -28,6 +28,7 @@ Your contributions are always welcome!
 | [ExLlamaV2](https://github.com/turboderp/exllamav2)             | - A fast inference library for running LLMs locally on modern consumer-class GPUs    | GPTQ/EXL2               | GPU             | ❌  | Python/C++  | Text-Gen      |
 | [LoRAX](https://github.com/predibase/lorax)                     | - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs                | Safetensor / AWQ / GPTQ | GPU             | ❌  | Python/Rust | Text-Gen      |
 | [text-generation-inference](https://github.com/huggingface/text-generation-inference)| - Inference serving toolbox with optimized kernels for each LLM architecture                | Safetensors / AWQ / GPTQ | Both             | ❌  | Python/Rust | Text-Gen      |
+| [VulkanForge](https://github.com/maeddesg/vulkanforge)          | - Native Vulkan LLM inference for AMD RDNA4. Faster than llama.cpp, native FP8 SafeTensors support. No ROCm needed, 14 MB binary | GGUF/SafeTensors(FP8)   | GPU             | ❌  | Rust/GLSL   | Text-Gen      |
 
 ## Inference UI
 
