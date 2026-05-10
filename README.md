@@ -37,6 +37,7 @@ Your contributions are always welcome!
 - [FireworksAI](https://app.fireworks.ai/) - Experience the world's fastest LLM inference platform deploy your own at no additional cost.
 - [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
 - [GPT4All](https://gpt4all.io) - A free-to-use, locally running, privacy-aware chatbot.
+- [KATEYUNGA](https://github.com/Kamugisha-Joseph/KATEYUNGA) - Offline custom AI assistant with conversation(session) memory, streaming responses, PDF reader(RAG) and proactive keyword alerts.
 - [LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other large language models on iOS and MacOS offline using GGML library.
 - [LlamaChat](https://llamachat.app/) - LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
 - [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service.
