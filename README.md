@@ -84,6 +84,7 @@ Your contributions are always welcome!
 - [Langfuse](https://langfuse.com/) - Open-source LLM monitoring platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
 - [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
+- [Macrokit](https://github.com/macrokit/core) - SDK (Apache-2.0, TypeScript) for running weak/local LLMs on narrow workflows: a strong model encodes a deterministic "macro" once at design time, then a small local model only classifies intent and routes to it at runtime — no runtime multi-step reasoning. BYO-model (OpenAI-compatible + Ollama). [#opensource](https://github.com/macrokit/core)
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
