@@ -33,6 +33,7 @@ Your contributions are always welcome!
 
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
+- [Atomic Chat](https://atomic.chat) - GUI-first local AI chat for macOS, Windows, Linux, iOS, and Android. Runs GGUF & MLX, OpenAI-compatible server, MCP support.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
 - [FireworksAI](https://app.fireworks.ai/) - Experience the world's fastest LLM inference platform deploy your own at no additional cost.
 - [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
