@@ -80,6 +80,7 @@ Your contributions are always welcome!
 - [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes.
 - [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format.
+- [CoderPlan](https://coderplan.ai) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to GPT-4, Claude, Gemini, and more. Built-in monitoring and analytics.
 - [Tune Studio](https://studio.tune.app/playground) - Playground for software developers to finetune and deploy large language models.
 - [Langfuse](https://langfuse.com/) - Open-source LLM monitoring platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
