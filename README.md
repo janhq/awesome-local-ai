@@ -59,6 +59,7 @@ Your contributions are always welcome!
 - [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) - H2OGPT The fastest, most accurate AI Cloud Platform.
 - [BentoML](https://github.com/bentoml/BentoML) - BentoML is a framework for building reliable, scalable, and cost-efficient AI applications.
 - [Predibase](https://predibase.com/) - Serverless LoRA Fine-Tuning and Serving for LLMs.
+- [null-drift](https://github.com/CodNoob100/null-drift) - Bare-metal O(1) continuous state memory daemon replacing traditional VectorDBs.
 
 ## Developer tools
 
