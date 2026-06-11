@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform of autonomous, persistent personal AI agents that collaborate, remember, and build their own tools. Single container, multi-channel (Telegram, WhatsApp, Slack, Discord, Signal, Matrix).
 
 ## Training
 
