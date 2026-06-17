@@ -64,6 +64,7 @@ Your contributions are always welcome!
 
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for fast user and agent context retrieval.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
 - [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI.
 - [One AI](https://www.oneai.com/) - MAKING GENERATIVE AI BUSINESS-READY.
