@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local-first open-source GUI app that orchestrates an LLM Council through Ralph Loops and Context Engineering to autonomously run full-lifecycle coding tickets. Runs on OpenCode, works with any model.
 
 ## Training
 
