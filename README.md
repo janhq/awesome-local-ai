@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [7/24 IDE](https://github.com/strmax195-hue/7-24-IDE) - Autonomous local AI developer agent for Windows with Plan & Build modes, real terminal execution, and Monaco diff reviews.
 
 ## Training
 
