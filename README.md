@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [Praxia](https://github.com/praxia-dev/praxia) - Multi-agent orchestrator with cyclic personal→organizational memory promotion. Local-first; works with Ollama and LM Studio.
 
 ## Training
 
