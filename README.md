@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - Self-hosted QQ AI bot for OneBot 11 / NapCat / LLOneBot. Bridges ACP-compatible agents into QQ with persistent sessions, progress streaming, image handoff, and a Docker quickstart.
 
 ## Training
 
