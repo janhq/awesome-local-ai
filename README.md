@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [MirrorNotes](https://github.com/lokii49/mirror) - Private AI journaling app for iPhone - daily prompts, mood tracking, and questions over your own entries, all inference on-device.
 
 ## Agents
 
