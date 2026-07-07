@@ -64,6 +64,7 @@ Your contributions are always welcome!
 
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle framework for AI coding agents with Rust CLI/TUI, SQLite/FTS recall, audit, and forgetting.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
 - [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI.
 - [One AI](https://www.oneai.com/) - MAKING GENERATIVE AI BUSINESS-READY.
