@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [OATS](https://github.com/ariso-ai/oats) - Open-source macOS meeting-notes app with live transcription, speaker labels, AI summaries, and a fully offline on-device mode.
 
 ## Agents
 
