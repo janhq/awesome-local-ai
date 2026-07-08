@@ -79,6 +79,7 @@ Front-ends that let humans actually use the runtimes above.
 - [Page Assist](https://github.com/n4ze3m/page-assist) - Browser extension that lets local LLMs see your current page. Surprisingly useful.
 - [Enchanted](https://github.com/AugustDev/enchanted) - Native macOS / iOS app for talking to Ollama instances.
 - [Sanctum](https://sanctum.ai) - macOS-native chat app, privacy-first framing.
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) - Local-first macOS desktop app: LLM chat, image generation, whisper dictation, and RAG over your own data, all on-device via llama.cpp. AGPL-3.0.
 
 ---
 
