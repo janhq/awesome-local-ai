@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [SAM](https://github.com/richhabits/sam) - Local-first personal AI assistant; defaults to your local Ollama model when you have no cloud keys (private + offline), assembles a team of specialist agents, and takes real actions across 173 tools.
 
 ## Training
 
