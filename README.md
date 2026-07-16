@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [LokalBot](https://github.com/stevyhacker/lokalbot) - Local AI work-memory app for macOS with meeting notes, dictation, inline autocomplete, and semantic recall powered by llama.cpp, MLX, and WhisperKit.
 
 ## Agents
 
