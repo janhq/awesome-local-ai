@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [LLM Hardware Calculator](https://mustafa.net/llm-hardware-checker/) - Check if your GPU can run a given model + quantization (VRAM fit and tokens/sec estimate).
 
 ## Agents
 
