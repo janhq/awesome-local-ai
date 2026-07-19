@@ -54,6 +54,10 @@ Your contributions are always welcome!
 - [HammerAI](https://www.hammerai.com/desktop) - Simple character-chat interface to run LLMs on Windows, Mac, and Linux. Uses Ollama under the hood and is offline, free to chat, and requires zero configuration.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and much more affordable.
 
+## Speech / Audio
+
+- [FunASR](https://github.com/modelscope/FunASR) - Open-source speech recognition toolkit for local ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible transcription serving with models such as SenseVoice and Paraformer.
+
 ## Platforms / full solutions
 
 - [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) - H2OGPT The fastest, most accurate AI Cloud Platform.
