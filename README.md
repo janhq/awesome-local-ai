@@ -5,6 +5,7 @@ If you tried [Jan Desktop](https://github.com/janhq/jan?tab=readme-ov-file#downl
 Your contributions are always welcome!
 
 ## Lists
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
 - [llama-police](https://huyenchip.com/llama-police.html) - A list of Open Source LLM Tools from [Chip Huyen](https://huyenchip.com)
 
