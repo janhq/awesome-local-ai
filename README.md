@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [VerdictBits LLM VRAM Calculator](https://verdictbits.com/reviews/llm-vram-calculator/) - Estimate the VRAM needed to run an LLM locally from model size, quantization and context length, and see which GPUs fit. Free, no signup.
 
 ## Agents
 
