@@ -151,3 +151,8 @@ Your contributions are always welcome!
 - [GPT4](https://www.reddit.com/r/GPT4/)
 - [Artificial Intelligence](https://www.reddit.com/r/artificial/)
 - [CrewAI](https://discord.com/invite/X4JWnZnxPb)
+
+
+## Community Additions
+
+- [CinéVague — Auteur Cinema Designer](https://github.com/zfryrgnci/CineVague-Film-Project-Designer) - A multi-agent arthouse filmmaking desktop application simulating a virtual studio.
