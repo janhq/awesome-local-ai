@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [VAND](https://vand.space/local-personal-ai) - Windows personal AI desktop app with encrypted local memory, model-provider choice, and an offline mode.
 
 ## Agents
 
