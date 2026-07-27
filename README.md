@@ -6,6 +6,7 @@ Your contributions are always welcome!
 
 ## Lists
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
+- [Awesome AI Handbook](https://github.com/bestdeejay-design/awesome-ai-handbook) - A practical guide to AI from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, AI agents, and local AI tools.
 - [llama-police](https://huyenchip.com/llama-police.html) - A list of Open Source LLM Tools from [Chip Huyen](https://huyenchip.com)
 
 ## Inference Engine
