@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Yap](https://frigade.com/yap) - Fast, private, on-device voice dictation for macOS. Set a hotkey, talk, and it types anywhere. No model to download and no network calls.
 
 ## Agents
 
