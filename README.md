@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 ## Agents
 
