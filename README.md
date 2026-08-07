@@ -114,6 +114,7 @@ Your contributions are always welcome!
 - [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training.
 - [TRL](https://github.com/huggingface/trl) - Language model alignment with reinforcement learning.
 - [PEFT](https://github.com/huggingface/peft) - Parameter efficient fine-tuning (LoRA, DoRA, model merger and more)
+- [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm) - Mac-local factory to post-train and evaluate specialist LLMs (MLX packaging, eval gates).
 
 ## LLM Leaderboard
 
