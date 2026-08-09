@@ -47,6 +47,8 @@ Your contributions are always welcome!
 - [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 - [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app.
 - [AI-Mask](https://github.com/pacoccino/ai-mask) - Browser extension to provide model inference to web apps. Backed by web-llm and transformers.js
+- [Elffuss Claw](https://elffuss-claw.utopiaia.com) - Chat-first agentic OS that runs entirely in the browser (WebGPU; Gemma-4 via LiteRT-LM, transformers.js fallback). Apps are generated on demand, plus installable skills. Apache-2.0.
+- [Elffuss Code](https://elffuss-code.utopiaia.com) - VS Code-style web IDE whose AI agent reads, searches and edits a local folder; the model runs on your own GPU (WebGPU). Apache-2.0.
 - [everything-rag](https://github.com/AstraBert/everything-rag) - Interact with (virtually) any LLM on Hugging Face Hub with an asy-to-use, 100% local Gradio chatbot.
 - [LmScript](https://github.com/lucasavila00/LmScript/) - UI for SGLang and Outlines
 - [Taskyon](https://github.com/Xyntopia/taskyon) - Vue3 based Chat UI, integratable in webpages. Focused on "local first" principle. Any OpenAI API compatible endpoint.
