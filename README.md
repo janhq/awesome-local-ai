@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [GI JI](https://giji.agency) - Local-first desktop knowledge workspace that answers from your documents with inspectable citations; "Sources only" mode stops when the evidence is insufficient. Free edition available.
 
 ## Agents
 
