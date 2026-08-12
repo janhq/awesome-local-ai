@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via its own llama.cpp fork. 56 tools (browser, fs, git, memory, vision), MCP support, and a 5-layer local memory. No account or API key needed. macOS, Linux, and Windows. [Site](https://atomicagent.io) and [Docs](https://atomicagent.io/docs).
 
 ## Training
 
