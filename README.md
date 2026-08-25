@@ -63,6 +63,7 @@ Your contributions are always welcome!
 ## Developer tools
 
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
+- [Synapse](https://synapse-bot.netlify.app/) - Local-first AI agent with file/web/browser automation and peer-to-peer model-update sharing. Fully local inference, no cloud dependency.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
 - [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI.
@@ -91,6 +92,7 @@ Your contributions are always welcome!
 ## Agents
 
 - [SuperAGI](https://superagi.com/) - Opensource AGI Infrastructure.
+- [Synapse](https://synapse-bot.netlify.app/) - Local-first AI agent with file/web/browser automation and peer-to-peer model-update sharing. Fully local inference, no cloud dependency.
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Baby AGI is an autonomous AI agent developed using Python that operates through OpenAI and Pinecone APIs.
 - [AgentGPT](https://agentgpt.reworkd.ai/) -Assemble, configure, and deploy autonomous AI Agents in your browser.
