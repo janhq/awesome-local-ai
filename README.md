@@ -38,6 +38,7 @@ Your contributions are always welcome!
 - [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
 - [GPT4All](https://gpt4all.io) - A free-to-use, locally running, privacy-aware chatbot.
 - [LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other large language models on iOS and MacOS offline using GGML library.
+- [Solair AI](https://solairai.app) - Free on-device ChatGPT-style app for iPhone, iPad, Mac, and Watch. 60+ local MLX models, no account.
 - [LlamaChat](https://llamachat.app/) - LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
 - [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service.
 - [FuLLMetalAi](https://www.fullmetal.ai/) - Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs).
