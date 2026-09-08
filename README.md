@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Autorec](https://autorec.app/) - Desktop meeting recorder that transcribes locally with whisper.cpp and can summarise through a local Ollama or LM Studio endpoint.
 
 ## Agents
 
