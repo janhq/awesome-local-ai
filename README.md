@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Milo](https://github.com/michaelegbo/milo) - Browser 3D voice companion with local Whisper/Qwen, hosted speech with a local Kokoro fallback, and optional ChatGPT replies; PolyForm Noncommercial.
 
 ## Agents
 
