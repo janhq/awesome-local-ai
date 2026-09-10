@@ -84,6 +84,7 @@ Your contributions are always welcome!
 - [Langfuse](https://langfuse.com/) - Open-source LLM monitoring platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
 - [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
+- [ContextStream](https://contextstream.io) - Shared project context for Cursor, Claude Code, Codex, Grok via MCP (`https://mcp.contextstream.io/mcp`). OSS: [contextstream/mcp-server](https://github.com/contextstream/mcp-server). Intelligence isn’t the bottleneck. Context is.
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
