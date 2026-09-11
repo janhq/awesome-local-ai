@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Voz](https://www.vozwhisper.com/) - macOS dictation and meeting notes running whisper.cpp and llama.cpp entirely on device. Speak, and the text appears wherever your cursor is.
 
 ## Agents
 
