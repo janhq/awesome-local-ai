@@ -65,6 +65,7 @@ Your contributions are always welcome!
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
+- [Robointuition](https://www.robointuition.net) - Fully local, offline AI coding assistant for secure and private development workflows. C programming.
 - [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI.
 - [One AI](https://www.oneai.com/) - MAKING GENERATIVE AI BUSINESS-READY.
 - [Gooey.AI](https://gooey.ai/) - Create Your Own No Code AI Workflows.
