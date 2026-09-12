@@ -72,6 +72,7 @@ Your contributions are always welcome!
 - [Safurai](https://www.safurai.com) - AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [GitFluence](https://www.gitfluence.com) - The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding agent against any OpenAI-compatible endpoint, including a local one, and replays the run with the model server switched off.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
