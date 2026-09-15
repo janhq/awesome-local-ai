@@ -103,6 +103,8 @@ Your contributions are always welcome!
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 
+- [Vellum](https://github.com/vellum-ai/vellum-assistant) - Personal AI assistant with persistent memory, scheduled tasks, and MCP integrations. Supports self-hosting and local models through Ollama.
+
 ## Training
 
 - [FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models.
