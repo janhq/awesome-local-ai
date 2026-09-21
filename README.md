@@ -61,6 +61,7 @@ Your contributions are always welcome!
 - [Predibase](https://predibase.com/) - Serverless LoRA Fine-Tuning and Serving for LLMs.
 
 ## Developer tools
+- [MagicKit](https://github.com/kaketiti/magickit) - Free AI toolbox (image, writing, video). Can be self-hosted, MIT licensed.
 
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
