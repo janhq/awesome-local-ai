@@ -12,6 +12,7 @@ Your contributions are always welcome!
 
 | Repository                                                      | Description                                                                          | Supported model formats | CPU/GPU Support | UI  | language    | Platform Type |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------- | --------------- | --- | ----------  | ------------- |
+| [WERR & Mandelbrot Neural Synthesis](https://github.com/pCwOrM/werr) | Zero-memory procedural decision kernel (0 bytes VRAM, 24-byte seed, sub-2ms deterministic reflex) | Procedural Dynamical Boundary | CPU (0 VRAM) | Web | Python/C/REST | System-1 Kernel |
 | [llama.cpp](https://github.com/ggerganov/llama.cpp)             | - Inference of LLaMA model in pure C/C++                                             | GGML/GGUF               | Both            | ❌  | C/C++       | Text-Gen      |
 | [Cortex](https://github.com/janhq/cortex.cpp)                   | - Multi-engine engine embeddable in your apps. Uses llama.cpp and more                | Both                    | Both            | ❌  | Text-Gen    |
 | [ollama](https://github.com/jmorganca/ollama)                   | - CLI and local server. Uses llama.cpp                                                | Both                    | Both            | ❌  | Text-Gen    |
