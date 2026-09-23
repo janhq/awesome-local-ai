@@ -28,6 +28,7 @@ Your contributions are always welcome!
 | [ExLlamaV2](https://github.com/turboderp/exllamav2)             | - A fast inference library for running LLMs locally on modern consumer-class GPUs    | GPTQ/EXL2               | GPU             | ❌  | Python/C++  | Text-Gen      |
 | [LoRAX](https://github.com/predibase/lorax)                     | - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs                | Safetensor / AWQ / GPTQ | GPU             | ❌  | Python/Rust | Text-Gen      |
 | [text-generation-inference](https://github.com/huggingface/text-generation-inference)| - Inference serving toolbox with optimized kernels for each LLM architecture                | Safetensors / AWQ / GPTQ | Both             | ❌  | Python/Rust | Text-Gen      |
+| [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) | - On-device inference engine to embed local LLMs in games and apps; streaming, embeddings, GBNF structured output, Whisper STT | GGUF | Both | ❌ | Rust (Godot/Flutter/RN/Swift/Kotlin/Python) | Text-Gen |
 
 ## Inference UI
 
