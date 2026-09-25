@@ -62,6 +62,7 @@ Your contributions are always welcome!
 
 ## Developer tools
 
+- [Jev Evidence Kit](https://github.com/delight0517/jev-evidence-kit) - A free offline checker that compares ChatGPT and local-model outputs against an expected answer before counting avoided ChatGPT tokens. It does not route models, verify provider billing, or guarantee savings.
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
