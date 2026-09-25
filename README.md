@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Libratory](https://github.com/subev/libratory) - Turn the PDFs you own into audiobooks and read-along books with local TTS and OCR, and chat with your whole library through Ollama or LM Studio.
 
 ## Agents
 
