@@ -6,6 +6,7 @@ Your contributions are always welcome!
 
 ## Lists
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
+- [Every Local AI](https://everylocalai.com) - Directory of self-hosted AI: local models, tools, and workflows, with VRAM math and per-GPU benchmark data.
 - [llama-police](https://huyenchip.com/llama-police.html) - A list of Open Source LLM Tools from [Chip Huyen](https://huyenchip.com)
 
 ## Inference Engine
