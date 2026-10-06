@@ -102,6 +102,7 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [Golem](https://github.com/abubakarsiddik31/golem) - Go-first framework for building dependable AI agents with typed dependencies, zero external dependencies, native MCP client, and local model support (Ollama, LM Studio).
 
 ## Training
 
