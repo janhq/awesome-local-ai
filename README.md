@@ -103,6 +103,8 @@ Your contributions are always welcome!
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 
+- [Kortix](https://opensourceaiagentplatform.com) - Kortix is the open-source AI Operating System: agents, skills, company memory and every connector live in one git repo you own, each session runs on its own isolated machine, and it runs any model with your own keys, self-hosted or managed.
+
 ## Training
 
 - [FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models.
