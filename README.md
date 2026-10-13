@@ -33,6 +33,7 @@ Your contributions are always welcome!
 
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
+- [Marvin](https://github.com/petrsajner/marvin) - Windows workspace for local AI chat, research, writing, coding and computer control, with project memory, file-change review and NVIDIA GPU profiles. Inference, chats and memory stay local; web tools use the internet.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
 - [FireworksAI](https://app.fireworks.ai/) - Experience the world's fastest LLM inference platform deploy your own at no additional cost.
 - [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
