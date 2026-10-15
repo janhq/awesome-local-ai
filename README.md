@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Clippy Vision](https://github.com/protocorn/clippy-vision) - Fully local screen-aware AI assistant (OCR, accessibility text, RAG) on Ollama, with an MCP server.
 
 ## Agents
 
