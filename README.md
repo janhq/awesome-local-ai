@@ -7,6 +7,7 @@ Your contributions are always welcome!
 ## Lists
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
 - [llama-police](https://huyenchip.com/llama-police.html) - A list of Open Source LLM Tools from [Chip Huyen](https://huyenchip.com)
+- [forkalt](https://forkalt.com) - Directory of open-source and free alternatives to paid AI and pro software, with side-by-side model comparisons.
 
 ## Inference Engine
 
