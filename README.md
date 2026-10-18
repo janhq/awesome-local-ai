@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Reelsaw](https://github.com/osbytes/reelsaw) - Self-hosted long-form to short-form video clipper: local transcription, LLM moment selection, face-tracked 9:16 reframing and captions. Runs fully local with Ollama, no API keys required.
 
 ## Agents
 
