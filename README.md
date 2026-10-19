@@ -53,6 +53,7 @@ Your contributions are always welcome!
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) - An interactive chat app that leverages Ollama(or openAI) models for rapid understanding and navigation of GitHub code repository or compressed file resources
 - [HammerAI](https://www.hammerai.com/desktop) - Simple character-chat interface to run LLMs on Windows, Mac, and Linux. Uses Ollama under the hood and is offline, free to chat, and requires zero configuration.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and much more affordable.
+- [GhostOS](https://github.com/GhostOS-ai/GhostOS) - Featherweight (<35MB RAM), 100% offline desktop AI copilot with native floating HUD, Zero-DB RAG, and Ollama integration.
 
 ## Platforms / full solutions
 
