@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [Kimiko](https://kimiko.app/) - AI note taker for meetings on Mac and Windows that runs speech recognition and AI on your computer by default, with its built-in models or through Ollama or LM Studio.
 
 ## Agents
 
