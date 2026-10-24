@@ -62,6 +62,7 @@ Your contributions are always welcome!
 
 ## Developer tools
 
+- [AI Model Fit Finder](https://essamamdani.com/ai-models/hardware-fit) - Find models by task and hardware fit, then browse the searchable AI model directory; hardware estimates use user-provided specs. ([project](https://github.com/essamamdani/ai-model-fit-finder))
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
