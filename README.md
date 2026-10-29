@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with 99-language local transcription, Speaker ID, built-in offline AI summaries, local Markdown (.md) Living Wiki, and native MCP server for Ollama, Claude, and Cursor ($0/mo subscription). [#mcp](https://github.com/onemira-space/onemira-mcp)
 
 ## Agents
 
