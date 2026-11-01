@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [RunLLMLocal](https://runllmlocal.com/) - Check which local LLMs your GPU, Mac or CPU can run, with memory needed, quantization and estimated speed.
 
 ## Agents
 
