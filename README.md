@@ -87,6 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+- [quantized.uk](https://quantized.uk) - Free VRAM calculator for local LLMs: pick a model, quantization (GGUF/AWQ/EXL2...) and context length to see if it fits your GPU or Mac.
 
 ## Agents
 
