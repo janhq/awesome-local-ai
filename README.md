@@ -30,6 +30,7 @@ Your contributions are always welcome!
 | [text-generation-inference](https://github.com/huggingface/text-generation-inference)| - Inference serving toolbox with optimized kernels for each LLM architecture                | Safetensors / AWQ / GPTQ | Both             | ❌  | Python/Rust | Text-Gen      |
 
 ## Inference UI
+-[Atlas](https://github.com/c22hv8dcf7-alt/meet-atlas)- Free local AI assistant that runs offline, with persistent  plain-file memory and cited answers from your documents.
 
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
