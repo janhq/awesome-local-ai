@@ -84,6 +84,7 @@ Your contributions are always welcome!
 - [Langfuse](https://langfuse.com/) - Open-source LLM monitoring platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
 - [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
+- [Tinker AI Lab](https://tinker-ai.com/) - Bilingual reproducible local AI engineering lab with an interactive [VRAM & KV Cache Calculator](https://tinker-ai.com/tools/vram-calculator/), hardware-tested benchmarks (Apple Silicon, NVIDIA RTX, AMD Strix Halo, Raspberry Pi 5), and [Interactive Troubleshooter Decision Trees](https://tinker-ai.com/tools/troubleshooter/).
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
