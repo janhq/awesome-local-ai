@@ -1,3 +1,5 @@
+- [IdeaAI](https://github.com/DogusTech/ideaai) - 100% local autonomous AI engineer desktop application running via Ollama & Llama 3.2.
+
 # [Awesome Local AI](https://github.com/janhq/awesome-local-ai) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Local%20AI%20-%20a%20collection%20of%20open%20source,%20local%20AI%20tools%20and%20solutions%20by%20@janframework&url=https://github.com/janhq/awesome-local-ai&hashtags=AI,OpenSource)
 
 If you tried [Jan Desktop](https://github.com/janhq/jan?tab=readme-ov-file#download) and liked it, please also check out the following **awesome collection of open source and/or local AI tools and solutions.**
