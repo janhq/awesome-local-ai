@@ -102,6 +102,8 @@ Your contributions are always welcome!
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 - [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [Sovereign Agent Bridge](https://github.com/1nc0gn30/sovereign-agent-bridge) - Inter-agent message bus and state machine connecting Hermes Swarm, OpenCode, Codex, and Claude Code over local SSE/JSON-RPC.
+- [Hermes Swarm](https://github.com/1nc0gn30/hermes-zoth) - Autonomous multi-agent coordination system with STDP episodic memory synchronization.
 
 ## Training
 
