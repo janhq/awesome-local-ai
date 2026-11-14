@@ -31,6 +31,7 @@ Your contributions are always welcome!
 
 ## Inference UI
 
+- [LM-WebUI](https://github.com/lm-webui/lm-webui) - Chat, RAG, image generation, download and run local LLMs (GGUF or MLX) under single interface.  
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
