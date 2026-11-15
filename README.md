@@ -62,6 +62,7 @@ Your contributions are always welcome!
 
 ## Developer tools
 
+- [ARB Universal IDE](https://github.com/aaravroybhattacharya-sketch/arb-universal-ide) - Offline multi-language desktop IDE that compiles plain English into executable code using embedded Qwen 2.5 Coder.
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
