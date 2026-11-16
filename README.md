@@ -28,6 +28,7 @@ Your contributions are always welcome!
 | [ExLlamaV2](https://github.com/turboderp/exllamav2)             | - A fast inference library for running LLMs locally on modern consumer-class GPUs    | GPTQ/EXL2               | GPU             | ❌  | Python/C++  | Text-Gen      |
 | [LoRAX](https://github.com/predibase/lorax)                     | - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs                | Safetensor / AWQ / GPTQ | GPU             | ❌  | Python/Rust | Text-Gen      |
 | [text-generation-inference](https://github.com/huggingface/text-generation-inference)| - Inference serving toolbox with optimized kernels for each LLM architecture                | Safetensors / AWQ / GPTQ | Both             | ❌  | Python/Rust | Text-Gen      |
+| [znap](https://github.com/SMC17/znap)                           | - Zero-allocation neural inference in Zig 0.16 with llama2.c text generation and no dependencies | llama2.c                | CPU             | ❌  | Zig         | Text-Gen      |
 
 ## Inference UI
 
@@ -84,6 +85,8 @@ Your contributions are always welcome!
 - [Langfuse](https://langfuse.com/) - Open-source LLM monitoring platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) - Interact with LLM using Ollama models(or openAI, mistralAI)via pure shell scripts on your Linux(or MacOS) system, enhancing intelligent system management without any dependencies
 - [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to language models.
+- [tokenizers-zig](https://github.com/SMC17/tokenizers-zig) - HuggingFace `tokenizer.json` parser and encoder in Zig 0.16 (BPE, WordPiece, and Unigram), differential-tested against Rust `tokenizers`.
+- [safetensors-zig](https://github.com/SMC17/safetensors-zig) - Safetensors reader in pure Zig 0.16 with header validation, overlap checks, tensor views, and no system dependencies.
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
