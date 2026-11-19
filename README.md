@@ -7,6 +7,7 @@ Your contributions are always welcome!
 ## Lists
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
 - [llama-police](https://huyenchip.com/llama-police.html) - A list of Open Source LLM Tools from [Chip Huyen](https://huyenchip.com)
+- [private-ai-apps](https://github.com/off-grid-ai/private-ai-apps) - Dated, sourced lists of AI apps that run locally on phones and computers, from offline chat to dictation and meeting notes.
 
 ## Inference Engine
 
