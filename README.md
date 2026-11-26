@@ -4,6 +4,8 @@ If you tried [Jan Desktop](https://github.com/janhq/jan?tab=readme-ov-file#downl
 
 Your contributions are always welcome!
 
+- [LibreAIDeck](https://libreaideck.com) - Directory of 51+ offline and open-source AI tools filtered by exact VRAM and system RAM requirements.
+
 ## Lists
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
 - [llama-police](https://huyenchip.com/llama-police.html) - A list of Open Source LLM Tools from [Chip Huyen](https://huyenchip.com)
