@@ -70,6 +70,7 @@ Your contributions are always welcome!
 - [Gooey.AI](https://gooey.ai/) - Create Your Own No Code AI Workflows.
 - [Mixo.io](https://mixo.io/?via=futurepedia) - AI website builder.
 - [Safurai](https://www.safurai.com) - AI Code Assistant that saves you time in changing, optimizing, and searching code.
+- [twinny](https://github.com/twinnydotdev/twinny) - Free, open-source VS Code assistant: code completion, chat and code review on local models (Ollama, LM Studio, llama.cpp).
 - [GitFluence](https://www.gitfluence.com) - The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
